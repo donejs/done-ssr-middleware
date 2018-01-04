@@ -36,7 +36,7 @@
     "can-list": "^3.0.2",
     "can-map": "^3.0.4",
     "can-map-define": "^3.0.2",
-    "can-route": "^3.0.6",
+    "can-route": "^4.0.0",
     "can-route-pushstate": "^3.0.1",
     "done-autorender": "^1.4.0",
     "done-css": "^3.0.0",
