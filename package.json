@@ -32,7 +32,7 @@
   "homepage": "https://github.com/donejs/done-ssr-middleware#readme",
   "devDependencies": {
     "can-component": "^3.0.4",
-    "can-fixture": "^1.0.11",
+    "can-fixture": "^2.0.0",
     "can-list": "^3.0.2",
     "can-map": "^3.0.4",
     "can-map-define": "^3.0.2",
