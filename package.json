@@ -37,7 +37,7 @@
     "can-map": "^3.0.4",
     "can-map-define": "^3.0.2",
     "can-route": "^3.0.6",
-    "can-route-pushstate": "^3.0.1",
+    "can-route-pushstate": "^4.0.0",
     "done-autorender": "^1.4.0",
     "done-css": "^3.0.0",
     "express": "^4.13.4",
