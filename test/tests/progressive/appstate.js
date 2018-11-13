@@ -3,9 +3,10 @@ var DefineMap = require("can-define/map/map");
 
 module.exports = DefineMap.extend({
 	statusMessage: "string",
+	request: "any",
 	loader: {
 		serialize: false,
-		value: () => loader
+		default: () => loader
 	},
 	throwError: function() {
 		throw Error('Something went wrong');

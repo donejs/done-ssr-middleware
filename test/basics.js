@@ -14,6 +14,8 @@ describe("done-ssr middleware", function() {
 			.use('/', express.static(root))
 			.use('/', ssr({
 				config: path.join(root, 'package.json') + '!npm'
+			}, {
+				strategy: "seo"
 			}));
 
 		var server = app.listen(5500);

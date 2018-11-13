@@ -1,6 +1,6 @@
 {
   "name": "done-ssr-middleware",
-  "version": "2.0.0",
+  "version": "3.0.0-pre.0",
   "description": "Express/Connect middleware for DoneJS applications",
   "main": "lib/index.js",
   "directories": {
@@ -31,15 +31,15 @@
   },
   "homepage": "https://github.com/donejs/done-ssr-middleware#readme",
   "dependencies": {
-    "done-ssr": "^2.0.0"
+    "done-ssr": "^3.0.0-pre.0"
   },
   "devDependencies": {
     "can-component": "^4.0.0",
     "can-define": "^2.0.0",
-    "can-fixture": "^2.0.0",
+    "can-fixture": "^3.0.0",
     "can-route": "^4.0.0",
-    "can-route-pushstate": "^4.0.0",
-    "done-autorender": "^2.0.0",
+    "can-route-pushstate": "^5.0.0",
+    "done-autorender": "^2.5.0",
     "done-css": "^3.0.0",
     "express": "^4.13.4",
     "jquery": "2.x - 3.x",

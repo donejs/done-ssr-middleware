@@ -28,7 +28,7 @@
 		{{#if(err)}} {{throwError()}} {{/if}}
 
 		{{#if(request)}}
-			<div>Showing: {{request.url}}</div>
+			<div>Showing: {{request[":path"]}}</div>
 		{{/if}}
 
 		{{#if(loader)}}
