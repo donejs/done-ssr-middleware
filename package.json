@@ -38,7 +38,7 @@
     "can-define": "^2.0.0",
     "can-fixture": "^3.0.0",
     "can-route": "^4.0.0",
-    "can-route-pushstate": "^5.0.0",
+    "can-route-pushstate": "^5.0.13",
     "done-autorender": "^2.5.0",
     "done-css": "^3.0.0",
     "express": "^4.13.4",
