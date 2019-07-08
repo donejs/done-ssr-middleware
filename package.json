@@ -36,7 +36,7 @@
   "devDependencies": {
     "can-component": "^4.0.0",
     "can-define": "^2.0.0",
-    "can-fixture": "^3.0.0",
+    "can-fixture": "^3.1.7",
     "can-route": "^4.0.0",
     "can-route-pushstate": "^5.0.0",
     "done-autorender": "^2.5.0",
