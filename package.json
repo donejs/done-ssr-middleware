@@ -48,6 +48,6 @@
     "recursive-copy": "^2.0.6",
     "request": "^2.69.0",
     "spawn-mochas": "^1.1.0",
-    "steal-tools": "^1.0.3"
+    "steal-tools": "^2.2.3"
   }
 }
